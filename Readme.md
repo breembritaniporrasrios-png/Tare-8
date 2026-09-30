@@ -1,8 +1,10 @@
 GRUPO:
-Yulber Carhuas
-Limbert Porras
-beckissy Villanueva
-JUnior Huauya 
+- Yulber Carhuas
+- Limbert Porras
+- beckissy Villanueva
+- JUnior Huauya 
+
+
  ¿De qué se trata?
 Esta tarea trata sobre el uso de pilas en programación. Una pila es una estructura de datos donde el último elemento que entra es el primero que sale. A esto se le conoce como método LIFO.
 
